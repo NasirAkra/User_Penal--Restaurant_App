@@ -43,4 +43,4 @@ Before setting up the app, ensure you have the following:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/user-panel-app.git
+   git clone https://github.com/NasirAkra/user-panel-app.git
